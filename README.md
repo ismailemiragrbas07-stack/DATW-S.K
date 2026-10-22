@@ -1,6 +1,6 @@
-# F-NAL-SINAVI
 
-FİNAL SINAVI için Bootstrap 5 kullanılarak hazırlanmış, modern ve mobil uyumlu tanıtım web sitesi projesidir.
+
+FİNAL SINAVIM için Bootstrap 5 kullanılarak hazırladığım, modern ve mobil uyumlu tanıtım web sitesi projesidir.
 Site; spor kulübünün hizmetlerini, kurslarını, eğitmenlerini ve iletişim bilgilerini sade ve etkili bir şekilde sunmayı amaçlar.
 🚀 Özellikler
 
